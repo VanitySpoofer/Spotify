@@ -20,7 +20,8 @@ c790f77ff2e944bdb2461407b7ff1ec8 : b36009524c9146d4a00f29342fcbbab8
 0f4c99c1b2b0436b8bae55f6f7d48bf8 : 15313184a8d549518185dbd7bac4c67e   
 
 # Spotify Account List
-To make you own ClientID:ClientSecret
+To make you own ClientID:ClientSecret   
+
 fTNawerHdoamLumgh@protonmail.com:zkrFCsBUGhLwZF9   
 fQAawtQLWwlpupZkx@protonmail.com:nBhHBuYbHAWfZF9   
 fvvNCxadPoFlXOYXL@protonmail.com:qayeIKqJgfsOZF9   
